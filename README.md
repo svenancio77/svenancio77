@@ -24,7 +24,7 @@
     
  
  
-  <img align="right" alt="Silvia-pic" height="150" style="border-radius:50px;" src="C:/Users/svena/OneDrive/Imagens/Saved Pictures">
+  <img align="right" alt="Silvia-pic" height="150" style="border-radius:50px;" src="https://github.com/svenancio77/svenancio77/blob/main/download20220202124839.png">
 </div>
   
   ##
@@ -33,6 +33,6 @@
   <a href = "mailto:svenancio77@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/silvia-venancio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
