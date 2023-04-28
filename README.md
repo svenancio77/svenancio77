@@ -1,4 +1,4 @@
-## Olá !  Seja Bem vindo!  Eu sou a Silvia Venancio e trabalho como Desenvolcedora FullStack
+## Olá !  Seja Bem vindo!  Eu sou a Silvia Venancio e trabalho como Desenvolvedora FullStack
 
 
 💻 - Atualmente trabalhando como Desenvolvedora Front-End
